@@ -9,14 +9,5 @@ div .col {
 
 }
 
-p {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
-}
 
-p.hover {
-    background-color: aqua;
-    color: aqua
 }
